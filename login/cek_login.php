@@ -9,6 +9,8 @@ include 'koneksi.php';
 $username = $_POST['username'];
 $password = $_POST['password'];
 
+var_dump($username,$password);
+die;
 
 // menyeleksi data user dengan username dan password yang sesuai
 $login = mysqli_query($koneksi,"select * from user where username='$username' and password='$password'");
