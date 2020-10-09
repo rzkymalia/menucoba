@@ -19,7 +19,11 @@ import sql file on folder assets/sqlfile
 ```
 lalu untuk mencobanya kamu bisa menjalankan browser
 ```
-dengan cara localhost/menucoba
+dengan cara 
 ```
+localhost/menucoba
+```
+
 Lalu akan muncul seperti ini
+
 ![bg](assets/bg.png)
