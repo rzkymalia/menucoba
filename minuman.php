@@ -153,7 +153,7 @@ $koneksi = new mysqli ("localhost", "root", "", "menucoba");
             <h5 class="card-title"><?php echo $perproduk ['nama_menu']; ?> </h5>
             <h5 class="card-title">Rp. <?php  echo $perproduk ['harga_menu']; ?> </h5>
             <a href="beli.php?id=<?php echo $perproduk ['id_menu']; ?>" class="btn btn-primary"> beli</a>
-            <a href="<?php echo $perproduk['deskripsi_menu'] ?>" class="btn btn-primary"> detail</a>
+            <a href="detail.php?id=<?php echo $perproduk['id_menu'] ?>" class="btn btn-primary"> detail</a>
           </div>
         </div>
       <?php } ?>
