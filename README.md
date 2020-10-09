@@ -22,4 +22,4 @@ lalu untuk mencobanya kamu bisa menjalankan browser
 dengan cara localhost/menucoba
 ```
 Lalu akan muncul seperti ini
-![](assets/images/bg.jpeg)
+![banner](assets/images/bg.jpeg)
